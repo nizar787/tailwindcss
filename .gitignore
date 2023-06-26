@@ -12,6 +12,7 @@ index.html
 yarn.lock
 yarn-error.log
 types/generated/*.d.ts
+types/generated/*.d.ts
 
 .turbo
 
